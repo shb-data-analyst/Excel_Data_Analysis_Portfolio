@@ -14,6 +14,11 @@ This repository contains Excel-based data analysis projects focused on dashboard
 - Variance analysis with conditional formatting
 - Interactive Excel dashboard with KPIs and slicers
 
+### 3. Retail Store Sales Analysis
+- End-to-end Excel project combining data cleaning, advanced formulas, and dashboards
+- Interactive sales dashboard with KPIs, slicers, and insights
+
+
 ## Tools & Skills
 - Microsoft Excel
 - Data Analysis
