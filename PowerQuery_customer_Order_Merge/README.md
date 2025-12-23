@@ -1,8 +1,8 @@
 # Customer Order Analysis using Power Query & Excel Dashboard
 
 ## Project Overview
-This project demonstrates an end-to-end Excel data analysis workflow using Power Query and Excel dashboards.  
-The goal of the project is to clean, merge, and analyze order and customer data to generate meaningful business insights through an interactive dashboard.
+This project demonstrates an end-to-end Excel data analysis workflow using Power Query and interactive Excel dashboards.  
+The goal of the project is to clean, merge, and analyze order and customer data to generate meaningful business insights through an automated interactive dashboard.
 
 ## Dataset Description
 The project uses two datasets:
@@ -34,10 +34,12 @@ The datasets are intentionally designed to include missing customer records to s
 ## Key Skills Demonstrated
 - Data cleaning and transformation using Power Query  
 - Merging datasets using Left Join and Inner Join  
-- Handling missing values by replacing nulls  
+- Handling missing values by replacing nulls
+- Group By operations (single and multiple columns)  
 - Automated data refresh using Power Query  
 - Creating KPI metrics (Total Sales, Total Orders, Average Order Value)  
-- Building interactive dashboards with slicers  
+- Building interactive dashboards with slicers
+- Applying conditioning Formatting for better visual interpretation.
 - Writing business-focused insights  
 
 ## Dashboard Features
@@ -59,7 +61,7 @@ The datasets are intentionally designed to include missing customer records to s
 
 
 ## Project Outcome
-This project delivers a clean, refresh-ready Excel dashboard that can be easily updated when new order files or customer data are added.  
+This project delivers a fully automated, refresh-ready Excel dashboard that can be easily updated when new order files or customer data are added.  
 It reflects real-world Excel automation and reporting tasks commonly required in business and freelancing projects.
 
 
@@ -69,8 +71,3 @@ It reflects real-world Excel automation and reporting tasks commonly required in
 - Customers.xlsx  
 - Screenshots of dashboard, Power Query steps, and insights  
 
----
-
-## Author
-Excel Data Analyst  
-Specializing in Excel dashboards, Power Query automation, and business data analysis.
